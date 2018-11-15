@@ -1,0 +1,30 @@
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\PDF Analyzer.exe.config
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\PDF Analyzer.exe
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\ClosedXML.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\DocumentFormat.OpenXml.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\ExcelNumberFormat.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\FastMember.Signed.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\INIFileParser.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Ionic.Zip.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\itextsharp.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Spire.License.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Spire.Pdf.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\System.IO.FileSystem.Primitives.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\System.IO.Packaging.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Microsoft.mshtml.dll
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\ClosedXML.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\DocumentFormat.OpenXml.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\ExcelNumberFormat.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\INIFileParser.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\itextsharp.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Spire.License.xml
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\Spire.Pdf.xml
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.csprojAssemblyReference.cache
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.Form1.resources
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.Properties.Resources.resources
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.csproj.GenerateResource.cache
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.csproj.CoreCompileInputs.cache
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF_Analiser.csproj.CopyComplete
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF Analyzer.exe
+E:\PDF_Analiser\PDF_Analiser\obj\Debug\PDF Analyzer.pdb
+E:\PDF_Analiser\PDF_Analiser\bin\Debug\PDF Analyzer.pdb
